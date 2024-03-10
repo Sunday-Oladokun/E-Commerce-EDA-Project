@@ -4,6 +4,7 @@ This project take a look at an e-commerce dataset. The main aim of the analysis 
 
 ### Project Requirements
 E-commerce dataset from Kaggle - https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases
+
 An IDE for running python- I used VS Code and Jupyter Notebook mostly
 
 
